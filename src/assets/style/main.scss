@@ -1,0 +1,38 @@
+header{
+  width: 100%;
+  background-color: bisque;
+  height: 80px;
+  padding-top:20px;
+  box-sizing: border-box;
+}
+.p-navigation{
+  width: 30%;
+  background-color: #ffdd72;
+  height: fit-content;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.p-navigation a{
+  color: black;
+  margin-top: 10px;
+}
+.content{
+  padding: 0 20px;
+}
+.content p{
+  margin-top: 30px;
+}
+.first-section{
+  margin: 20px 0;
+}
+
+.section2{
+  background-color: #97814d;
+  padding: 10px 3px;
+  height: 100px;
+}
+footer{
+  margin-top: 10px;
+  background-color: #574a2c;
+}
